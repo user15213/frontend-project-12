@@ -1,9 +1,10 @@
 {
-  "name": "frontend-project-12",
+  "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/user15213/frontend-project-12/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/user15213/frontend-project-12/actions)",
   "main": "index.js",
   "scripts": {
+    "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,10 +12,13 @@
     "url": "git+https://github.com/user15213/frontend-project-12.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "resomakar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/user15213/frontend-project-12/issues"
   },
-  "homepage": "https://github.com/user15213/frontend-project-12#readme"
+  "homepage": "https://github.com/user15213/frontend-project-12#readme",
+  "dependencies": {
+    "@hexlet/chat-server": "^2.0.4"
+  }
 }
