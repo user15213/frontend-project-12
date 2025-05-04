@@ -1,6 +1,6 @@
 # @hexlet/code
 
-Демо: https://frontend-project-12-7zbj.onrender.com
+Демо: https://frontend-project-12-wyh7.onrender.com
 
 ## Запуск локально
 
