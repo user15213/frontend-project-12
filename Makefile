@@ -1,8 +1,7 @@
 .PHONY: build start
 
 build:
-	cd frontend && npm install
-	cd frontend && npm run build
+	cd frontend && npm ci && npm run build
 
 start:
-	npx start-server -s frontend/dist -p $PORT
+	npx start-server -s frontend/dist -p $$PORT
