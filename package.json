@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user15213/frontend-project-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user15213/frontend-project-12/issues"
+  },
+  "homepage": "https://github.com/user15213/frontend-project-12#readme",
+  "dependencies": {
+    "@hexlet/chat-server": "^2.0.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.3.4"
+  }
+}
